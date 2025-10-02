@@ -28,8 +28,8 @@ This project visualizes and analyzes profit data for multiple companies over sev
 | `After-cleaning-the-dataset.jpg`     | Visualization of cleaned data                                    |
 | `Before-cleaning-the-dataset.jpg`    | Sample of original raw data                                      |
 | `Profit-Analysis-Dashboard-Output.pdf`| Exported dashboard with core profit visuals                      |
-| `PowerBI-ProfitDashboard.pbix`       | Power BI dashboard source file                                   |
-| `ProfitDashboard-Template.pbit`      | Reusable dashboard template                                      |
+| `Profit-Analysis-Dashboard.pbix`       | Power BI dashboard source file                                   |
+| `Profit-Analysis-Dashboard-Template.pbit`      | Reusable dashboard template                                      |
 
 ---
 
