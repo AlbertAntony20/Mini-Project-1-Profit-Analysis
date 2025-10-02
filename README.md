@@ -1,4 +1,4 @@
-# Profit Analysis Dashboard
+# Profit Analysis Dashboard 🕵️📊
 
 A comprehensive analytics project to analyze company profit data using Power BI, with a fully documented dashboard and associated template. The repo includes raw and cleaned datasets, reports, Power BI source files, and dashboard images for reference.
 
