@@ -47,8 +47,8 @@ This project visualizes and analyzes profit data for multiple companies over sev
 ### How to Use
 
 1. Clone or download the repo.
-2. Open `PowerBI-ProfitDashboard.pbix` in Power BI Desktop.
-3. To reuse for your own data, use the included template `ProfitDashboard-Template.pbit`.
+2. Open `Profit-Analysis-Dashboard.pbix` in Power BI Desktop.
+3. To reuse for your own data, use the included template `Profit-Analysis-Dashboard-Template.pbit`.
 4. Review data cleaning steps by inspecting before/after dataset images.
 5. Export visuals and reports as needed.
 
@@ -56,7 +56,7 @@ This project visualizes and analyzes profit data for multiple companies over sev
 
 ### Credits
 
-- Data preparation, analysis, and dashboard design by [Your Name].
+- Data preparation, analysis, and dashboard design by Albert Antony.
 - Project powered by Power BI & Excel.
 
 ---
